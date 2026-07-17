@@ -28,7 +28,8 @@ The driver follows a strict layered software architecture designed for maintaina
 	
 ---	
 
-🔧 Driver Configurations & APIs
+## 🔧 Driver Configurations & APIs
+
 typedef struct {
     u8 PinMode;       // e.g., GPIO_MODE_OUTPUT, GPIO_MODE_INPUT
     u8 PinNumber;     // e.g., GPIO_PIN_NO_0 to GPIO_PIN_NO_15
@@ -41,7 +42,7 @@ typedef struct {
 
 ---
 
-Main APIs Block
+### 📑 Main APIs Block
 
 /* Clock Control */
 void GPIO_ClockControl(GPIO_TypeDef *copy_pPORT, u8 copy_u8ClockState);
@@ -60,7 +61,7 @@ void GPIO_WriteToOutputPin(GPIO_TypeDef *copy_pPORT, u8 copy_u8PinNumber, u8 cop
 
 ---
 
-💻 Code Example (Blinking the On-Board Green LED)
+## 💻 Code Example (Blinking the On-Board Green LED)
 
 #include "std_types.h"
 #include "GPIO_interface.h"
