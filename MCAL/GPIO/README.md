@@ -6,7 +6,7 @@ A bare-metal, highly modular Microcontroller Abstraction Layer (MCAL) driver for
 
 ## 🚀 Features
 
-* **Complete Port Mapping:** Full support for all STM32F407VG ports from `GPIOA` to `GPIOI`.
+* **Complete Port Mapping:** Full support for all STM32F407VG ports from `GPIOA` to `GPIOE`.
 * **Flexible Pin Control:** Independent configuration for modes (Input, Output, Alternate Function, Analog).
 * **Hardware Output Control:** Configurable output types (Push-Pull / Open-Drain) and output speeds (Low, Medium, Fast, High).
 * **Internal Resistor Management:** Native handling of internal Pull-Up, Pull-Down, and Floating states.
@@ -66,7 +66,7 @@ void GPIO_WriteToOutputPin(GPIO_TypeDef *copy_pPORT, u8 copy_u8PinNumber, u8 cop
 #include "std_types.h"
 #include "GPIO_interface.h"
 
-int main(void)
+int main(void)gi
 {
     /* 1. Enable Clock for GPIOD */
     GPIO_ClockControl(GPIOD, GPIO_CLK_ENABLE);
