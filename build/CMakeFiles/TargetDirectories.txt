@@ -1,0 +1,4 @@
+/home/ammar/Documents/STM32_Home/build/CMakeFiles/STM32F407_Drivers.elf.dir
+/home/ammar/Documents/STM32_Home/build/CMakeFiles/flash.dir
+/home/ammar/Documents/STM32_Home/build/CMakeFiles/edit_cache.dir
+/home/ammar/Documents/STM32_Home/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1091 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o) (__stdio_exit_handler)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (__sread)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o) (_lseek_r)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o) (_read_r)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o) (_write_r)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (_fflush_r)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (_malloc_r)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o) (_close_r)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o) (errno)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o) (_impure_ptr)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o) (__malloc_lock)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o) (_free_r)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o) (_close)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o) (_lseek)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o) (_read)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o) (_sbrk)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o) (_write)
+/home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+                              /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .debug_macro   0x00000000      0xac6 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .debug_macro   0x00000000       0x5e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .debug_macro   0x00000000      0xac6 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .debug_macro   0x00000000       0x5e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_macro   0x00000000      0xac6 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_macro   0x00000000       0x5e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_macro   0x00000000       0x46 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_macro   0x00000000       0x52 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_macro   0x00000000      0xac6 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_macro   0x00000000       0x5e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_macro   0x00000000       0x40 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_macro   0x00000000      0xac6 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_macro   0x00000000       0x5e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_macro   0x00000000       0x7c CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_macro   0x00000000       0x40 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_macro   0x00000000      0x172 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_macro   0x00000000       0xce CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_macro   0x00000000      0xac6 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_macro   0x00000000       0x5e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_macro   0x00000000       0x40 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .debug_macro   0x00000000      0xac6 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .debug_macro   0x00000000       0x5e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .debug_macro   0x00000000       0x40 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .group         0x00000000        0xc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .debug_macro   0x00000000      0xac6 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .debug_macro   0x00000000       0x5e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .gnu.warning._close
+                0x00000000        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .gnu.warning._lseek
+                0x00000000        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .gnu.warning._read
+                0x00000000        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .gnu.warning._write
+                0x00000000        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+CCMRAM           0x10000000         0x00010000         xrw
+RAM              0x20000000         0x00020000         xrw
+FLASH            0x08000000         0x00100000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+LOAD CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+LOAD CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+LOAD CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+LOAD CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+LOAD CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+LOAD CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+LOAD CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+LOAD CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+LOAD CMakeFiles/STM32F407_Drivers.elf.dir/Startup/startup_stm32f407xx.s.obj
+START GROUP
+LOAD /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+LOAD /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x20020000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000200                        _Min_Heap_Size = 0x200
+                0x00000400                        _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x188
+                0x08000000                        . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 CMakeFiles/STM32F407_Drivers.elf.dir/Startup/startup_stm32f407xx.s.obj
+                0x08000000                g_pfnVectors
+                0x08000188                        . = ALIGN (0x4)
+
+.text           0x08000188     0x2160
+                0x08000188                        . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000188        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crti.o
+ .text          0x08000188        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x08000188       0x7c /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+                0x08000188                _stack_init
+                0x08000190                _mainCRTStartup
+                0x08000190                _start
+ .text          0x08000204       0x44 CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+                0x08000204                Led
+                0x08000218                main
+ .text          0x08000248      0x230 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+                0x080002a4                ADC_Init
+                0x08000318                ADC_ChannalConfig
+                0x080003f8                ADC_SynchStartConversion
+ .text          0x08000478        0x0 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .text          0x08000478      0x90c CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+                0x08000502                Can_Init
+                0x080006ac                Can_SetConntrollerMode
+                0x08000864                Can_Write
+                0x08000a1c                Can_FilterInit
+                0x08000b54                Can_Read
+                0x08000ce0                Can_EnableInterrupts
+                0x08000d16                Can_RegisterCallback
+                0x08000d58                CAN1_RX0_IRQHandler
+ .text          0x08000d84      0x458 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+                0x08000d84                DMA_voidInit
+                0x08000e80                DMA_voidConfigTransfer
+                0x08000ebe                DMA_voidCmd
+                0x08000f0e                DMA_voidClearFlag
+                0x08000f58                DMA_voidConfigDoubleBuffer
+                0x08000faa                DMA_voidSetCallBackFunc
+                0x0800105c                DMA1_Stream0_IRQHandler
+                0x08001074                DMA1_Stream1_IRQHandler
+                0x0800108c                DMA1_Stream2_IRQHandler
+                0x080010a4                DMA1_Stream3_IRQHandler
+                0x080010bc                DMA1_Stream4_IRQHandler
+                0x080010d4                DMA1_Stream5_IRQHandler
+                0x080010ec                DMA1_Stream6_IRQHandler
+                0x08001104                DMA1_Stream7_IRQHandler
+                0x0800111c                DMA2_Stream0_IRQHandler
+                0x08001134                DMA2_Stream1_IRQHandler
+                0x0800114c                DMA2_Stream2_IRQHandler
+                0x08001164                DMA2_Stream3_IRQHandler
+                0x0800117c                DMA2_Stream4_IRQHandler
+                0x08001194                DMA2_Stream5_IRQHandler
+                0x080011ac                DMA2_Stream6_IRQHandler
+                0x080011c4                DMA2_Stream7_IRQHandler
+ .text          0x080011dc      0x3c8 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+                0x08001228                GPIO_ClockControl
+                0x080012b4                GPIO_Init
+                0x0800136c                GPIO_ToggleoutputPin
+                0x080013c0                GPIO_DeInit
+                0x08001430                GPIO_ReadFromInputPin
+                0x0800148c                GPIO_ReadFromInputPort
+                0x080014d8                GPIO_WriteToOutputPort
+                0x08001520                GPIO_WriteToOutputPin
+ .text          0x080015a4       0xf4 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+                0x080015a4                MPU_voidConfigRegion
+                0x08001620                MPU_voidEnable
+                0x08001640                MPU_voidDisable
+                0x08001658                MemManageFault_voidEnable
+                0x08001678                MemManageFault_voidDisable
+ .text          0x08001698       0xec CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+                0x08001698                NVIC_IRQInterruptConfig
+                0x0800171c                NVIC_IRQPriorityConfig
+ .text          0x08001784      0x174 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+                0x08001784                SysTick_Init
+                0x080017cc                SysTick_SynchDelayMs
+                0x0800184c                SysTick_AsynchDelayMs
+                0x080018ac                SysTick_Handler
+ .text          0x080018f8       0x14 CMakeFiles/STM32F407_Drivers.elf.dir/Startup/startup_stm32f407xx.s.obj
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x0800190c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.text*)
+ .text.deregister_tm_clones
+                0x0800190c       0x1c /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.register_tm_clones
+                0x08001928       0x24 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x0800194c       0x28 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.frame_dummy
+                0x08001974       0x24 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.Reset_Handler
+                0x08001998       0x48 CMakeFiles/STM32F407_Drivers.elf.dir/Startup/startup_stm32f407xx.s.obj
+                0x08001998                Reset_Handler
+ .text.Default_Handler
+                0x080019e0        0x2 CMakeFiles/STM32F407_Drivers.elf.dir/Startup/startup_stm32f407xx.s.obj
+                0x080019e0                RTC_Alarm_IRQHandler
+                0x080019e0                HASH_RNG_IRQHandler
+                0x080019e0                EXTI2_IRQHandler
+                0x080019e0                TIM8_CC_IRQHandler
+                0x080019e0                DebugMon_Handler
+                0x080019e0                TIM1_CC_IRQHandler
+                0x080019e0                HardFault_Handler
+                0x080019e0                PVD_IRQHandler
+                0x080019e0                SDIO_IRQHandler
+                0x080019e0                TAMP_STAMP_IRQHandler
+                0x080019e0                PendSV_Handler
+                0x080019e0                NMI_Handler
+                0x080019e0                CAN2_RX1_IRQHandler
+                0x080019e0                EXTI3_IRQHandler
+                0x080019e0                TIM8_TRG_COM_TIM14_IRQHandler
+                0x080019e0                TIM1_UP_TIM10_IRQHandler
+                0x080019e0                TIM8_UP_TIM13_IRQHandler
+                0x080019e0                I2C3_ER_IRQHandler
+                0x080019e0                DNE_IRQHandler
+                0x080019e0                EXTI0_IRQHandler
+                0x080019e0                I2C2_EV_IRQHandler
+                0x080019e0                FPU_IRQHandler
+                0x080019e0                OTG_HS_WKUP_IRQHandler
+                0x080019e0                UsageFault_Handler
+                0x080019e0                CAN2_SCE_IRQHandler
+                0x080019e0                SPI1_IRQHandler
+                0x080019e0                TIM6_DAC_IRQHandler
+                0x080019e0                TIM1_BRK_TIM9_IRQHandler
+                0x080019e0                CAN2_RX0_IRQHandler
+                0x080019e0                USART6_IRQHandler
+                0x080019e0                USART3_IRQHandler
+                0x080019e0                CRYP_IRQHandler
+                0x080019e0                CAN1_RX1_IRQHandler
+                0x080019e0                UART5_IRQHandler
+                0x080019e0                TIM4_IRQHandler
+                0x080019e0                I2C1_EV_IRQHandler
+                0x080019e0                UART4_IRQHandler
+                0x080019e0                TIM3_IRQHandler
+                0x080019e0                RCC_IRQHandler
+                0x080019e0                TIM8_BRK_TIM12_IRQHandler
+                0x080019e0                Default_Handler
+                0x080019e0                EXTI15_10_IRQHandler
+                0x080019e0                ADC_IRQHandler
+                0x080019e0                TIM7_IRQHandler
+                0x080019e0                CAN2_TX_IRQHandler
+                0x080019e0                TIM5_IRQHandler
+                0x080019e0                I2C3_EV_IRQHandler
+                0x080019e0                EXTI9_5_IRQHandler
+                0x080019e0                RTC_WKUP_IRQHandler
+                0x080019e0                ETH_WKUP_IRQHandler
+                0x080019e0                SPI2_IRQHandler
+                0x080019e0                OTG_HS_EP1_IN_IRQHandler
+                0x080019e0                MemManage_Handler
+                0x080019e0                CAN1_TX_IRQHandler
+                0x080019e0                SVC_Handler
+                0x080019e0                EXTI4_IRQHandler
+                0x080019e0                FSMC_IRQHandler
+                0x080019e0                ETH_IRQHandler
+                0x080019e0                OTG_HS_EP1_OUT_IRQHandler
+                0x080019e0                WWDG_IRQHandler
+                0x080019e0                TIM2_IRQHandler
+                0x080019e0                OTG_FS_WKUP_IRQHandler
+                0x080019e0                TIM1_TRG_COM_TIM11_IRQHandler
+                0x080019e0                OTG_HS_IRQHandler
+                0x080019e0                EXTI1_IRQHandler
+                0x080019e0                USART2_IRQHandler
+                0x080019e0                I2C2_ER_IRQHandler
+                0x080019e0                CAN1_SCE_IRQHandler
+                0x080019e0                FLASH_IRQHandler
+                0x080019e0                BusFault_Handler
+                0x080019e0                USART1_IRQHandler
+                0x080019e0                OTG_FS_IRQHandler
+                0x080019e0                SPI3_IRQHandler
+                0x080019e0                I2C1_ER_IRQHandler
+ *fill*         0x080019e2        0x2 
+ .text.exit     0x080019e4       0x24 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+                0x080019e4                exit
+ .text.__libc_init_array
+                0x08001a08       0x48 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+                0x08001a08                __libc_init_array
+ .text.memset   0x08001a50       0x10 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+                0x08001a50                memset
+ .text.std      0x08001a60       0x6c /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x08001acc       0x18 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x08001ae4       0x40 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x08001b24       0x18 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x08001b3c       0x18 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x08001b54       0x3c /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x08001b90        0xc /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+                0x08001b90                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x08001b9c        0xc /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+                0x08001b9c                __sfp_lock_release
+ .text.__sfp    0x08001ba8       0xa4 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+                0x08001ba8                __sfp
+ .text.__sinit  0x08001c4c       0x30 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+                0x08001c4c                __sinit
+ .text.__fp_lock_all
+                0x08001c7c       0x1c /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+                0x08001c7c                __fp_lock_all
+ .text.__fp_unlock_all
+                0x08001c98       0x1c /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+                0x08001c98                __fp_unlock_all
+ .text.__sread  0x08001cb4       0x22 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+                0x08001cb4                __sread
+ .text.__seofread
+                0x08001cd6        0x4 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+                0x08001cd6                __seofread
+ .text.__swrite
+                0x08001cda       0x38 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+                0x08001cda                __swrite
+ .text.__sseek  0x08001d12       0x24 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+                0x08001d12                __sseek
+ .text.__sclose
+                0x08001d36        0x8 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+                0x08001d36                __sclose
+ *fill*         0x08001d3e        0x2 
+ .text._lseek_r
+                0x08001d40       0x24 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+                0x08001d40                _lseek_r
+ .text._read_r  0x08001d64       0x24 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+                0x08001d64                _read_r
+ .text._fwalk_sglue
+                0x08001d88       0x3c /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+                0x08001d88                _fwalk_sglue
+ .text._write_r
+                0x08001dc4       0x24 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+                0x08001dc4                _write_r
+ .text.__retarget_lock_init
+                0x08001de8        0x2 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x08001de8                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x08001dea        0x2 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x08001dea                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x08001dec        0x2 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x08001dec                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x08001dee        0x2 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x08001dee                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x08001df0        0x2 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x08001df0                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x08001df2        0x2 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x08001df2                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x08001df4        0x4 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x08001df4                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x08001df8        0x4 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x08001df8                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x08001dfc        0x2 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x08001dfc                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x08001dfe        0x2 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x08001dfe                __retarget_lock_release_recursive
+ .text.__sflush_r
+                0x08001e00      0x108 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+                0x08001e00                __sflush_r
+ .text._fflush_r
+                0x08001f08       0x50 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+                0x08001f08                _fflush_r
+ .text.fflush   0x08001f58       0x28 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+                0x08001f58                fflush
+ .text.sbrk_aligned
+                0x08001f80       0x44 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x08001fc4      0x100 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+                0x08001fc4                _malloc_r
+ .text._close_r
+                0x080020c4       0x20 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+                0x080020c4                _close_r
+ .text._reclaim_reent
+                0x080020e4       0xbc /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+                0x080020e4                _reclaim_reent
+ .text.__malloc_lock
+                0x080021a0        0xc /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+                0x080021a0                __malloc_lock
+ .text.__malloc_unlock
+                0x080021ac        0xc /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+                0x080021ac                __malloc_unlock
+ .text._sbrk_r  0x080021b8       0x20 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+                0x080021b8                _sbrk_r
+ .text._free_r  0x080021d8       0x94 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+                0x080021d8                _free_r
+ .text._close   0x0800226c       0x10 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+                0x0800226c                _close
+ .text._lseek   0x0800227c       0x10 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+                0x0800227c                _lseek
+ .text._read    0x0800228c       0x10 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+                0x0800228c                _read
+ .text._sbrk    0x0800229c       0x1c /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+                0x0800229c                _sbrk
+ .text._write   0x080022b8       0x10 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+                0x080022b8                _write
+ .text._exit    0x080022c8        0x4 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+                0x080022c8                _exit
+ *(.glue_7)
+ .glue_7        0x080022cc        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x080022cc        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x080022cc        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .eh_frame      0x080022cc        0x4 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtend.o
+ *(.init)
+ .init          0x080022d0        0x4 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x080022d0                _init
+ .init          0x080022d4        0x8 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x080022dc        0x4 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x080022dc                _fini
+ .fini          0x080022e0        0x8 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x080022e8                        . = ALIGN (0x4)
+                0x080022e8                        _etext = .
+
+.vfp11_veneer   0x080022e8        0x0
+ .vfp11_veneer  0x080022e8        0x0 linker stubs
+
+.v4_bx          0x080022e8        0x0
+ .v4_bx         0x080022e8        0x0 linker stubs
+
+.iplt           0x080022e8        0x0
+ .iplt          0x080022e8        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x080022e8       0x5c
+                0x080022e8                        . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x080022e8        0xe CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+                0x080022e8                Can_ConfigInstance1
+ *fill*         0x080022f6        0x2 
+ .rodata        0x080022f8        0x4 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ *(.rodata*)
+ .rodata.all_implied_fbits
+                0x080022fc       0x24 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata.all_implied_fbits
+                0x08002320       0x24 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtend.o
+                0x08002344                        . = ALIGN (0x4)
+                0x0800234c                        _sidata = LOADADDR (.data)
+
+.ARM.extab      0x08002344        0x0
+ .ARM.extab     0x08002344        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+
+.ARM.exidx      0x08002344        0x8
+ .ARM.exidx     0x08002344        0x8 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+                                 0x10 (size before relaxing)
+
+.rel.dyn        0x0800234c        0x0
+ .rel.iplt      0x0800234c        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.data           0x20000000      0x150 load address 0x0800234c
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _sdata = .
+ *(.data)
+ .data          0x20000000        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x20000000        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .data          0x20000000        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x20000000       0x30 CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .data          0x20000030        0x0 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .data          0x20000030        0x0 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .data          0x20000030        0x0 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .data          0x20000030        0xf CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ *fill*         0x2000003f        0x1 
+ .data          0x20000040       0x30 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .data          0x20000070       0x80 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .data          0x200000f0        0x0 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .data          0x200000f0        0x0 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .data          0x200000f0        0x0 CMakeFiles/STM32F407_Drivers.elf.dir/Startup/startup_stm32f407xx.s.obj
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x200000f0        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.data*)
+ .data.__dso_handle
+                0x200000f0        0x4 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x200000f0                __dso_handle
+ .data.__sglue  0x200000f4        0xc /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+                0x200000f4                __sglue
+ .data._impure_ptr
+                0x20000100        0x4 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+                0x20000100                _impure_ptr
+ .data._impure_data
+                0x20000104       0x4c /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+                0x20000104                _impure_data
+                0x20000150                        . = ALIGN (0x4)
+                0x20000150                        _edata = .
+
+.init_array     0x20000150        0x4 load address 0x0800249c
+ .init_array    0x20000150        0x4 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.fini_array     0x20000154        0x4 load address 0x080024a0
+ .fini_array    0x20000154        0x4 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.tm_clone_table
+                0x20000158        0x0 load address 0x080024a4
+ .tm_clone_table
+                0x20000158        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .tm_clone_table
+                0x20000158        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtend.o
+
+.igot.plt       0x20000158        0x0 load address 0x080024a4
+ .igot.plt      0x20000158        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x20000158                        . = ALIGN (0x4)
+
+.bss            0x20000158      0x1c4 load address 0x080024a4
+                0x20000158                        _sbss = .
+                0x20000158                        __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000158        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x20000158        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss           0x20000158        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x20000158        0x0 CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .bss           0x20000158        0x0 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .bss           0x20000158        0x0 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .bss           0x20000158        0xa CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ *fill*         0x20000162        0x2 
+ .bss           0x20000164       0x40 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .bss           0x200001a4        0x0 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .bss           0x200001a4        0x0 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .bss           0x200001a4        0x0 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .bss           0x200001a4        0x8 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .bss           0x200001ac        0x0 CMakeFiles/STM32F407_Drivers.elf.dir/Startup/startup_stm32f407xx.s.obj
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x200001ac        0x0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.bss*)
+ .bss.completed.1
+                0x200001ac        0x1 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *fill*         0x200001ad        0x3 
+ .bss.object.0  0x200001b0       0x18 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss.__sf      0x200001c8      0x138 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+                0x200001c8                __sf
+ .bss.__stdio_exit_handler
+                0x20000300        0x4 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+                0x20000300                __stdio_exit_handler
+ .bss.__lock___arc4random_mutex
+                0x20000304        0x1 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x20000304                __lock___arc4random_mutex
+ .bss.__lock___dd_hash_mutex
+                0x20000305        0x1 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x20000305                __lock___dd_hash_mutex
+ .bss.__lock___tz_mutex
+                0x20000306        0x1 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x20000306                __lock___tz_mutex
+ .bss.__lock___env_recursive_mutex
+                0x20000307        0x1 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x20000307                __lock___env_recursive_mutex
+ .bss.__lock___malloc_recursive_mutex
+                0x20000308        0x1 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x20000308                __lock___malloc_recursive_mutex
+ .bss.__lock___at_quick_exit_mutex
+                0x20000309        0x1 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x20000309                __lock___at_quick_exit_mutex
+ .bss.__lock___atexit_recursive_mutex
+                0x2000030a        0x1 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x2000030a                __lock___atexit_recursive_mutex
+ .bss.__lock___sfp_recursive_mutex
+                0x2000030b        0x1 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x2000030b                __lock___sfp_recursive_mutex
+ .bss.__malloc_sbrk_start
+                0x2000030c        0x4 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+                0x2000030c                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x20000310        0x4 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+                0x20000310                __malloc_free_list
+ .bss.errno     0x20000314        0x4 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+                0x20000314                errno
+ .bss.heap_end.0
+                0x20000318        0x4 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ *(COMMON)
+                0x2000031c                        . = ALIGN (0x4)
+                0x2000031c                        _ebss = .
+                0x2000031c                        __bss_end__ = _ebss
+
+._user_heap_stack
+                0x2000031c      0x604 load address 0x080024a4
+                0x20000320                        . = ALIGN (0x8)
+ *fill*         0x2000031c        0x4 
+                0x20000320                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x20000520                        . = (. + _Min_Heap_Size)
+ *fill*         0x20000320      0x200 
+                0x20000920                        . = (. + _Min_Stack_Size)
+ *fill*         0x20000520      0x400 
+                0x20000920                        . = ALIGN (0x8)
+OUTPUT(STM32F407_Drivers.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x22 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x00000022       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000056       0x20 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000076       0x34 CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .ARM.attributes
+                0x000000aa       0x34 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .ARM.attributes
+                0x000000de       0x34 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .ARM.attributes
+                0x00000112       0x34 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .ARM.attributes
+                0x00000146       0x34 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .ARM.attributes
+                0x0000017a       0x34 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .ARM.attributes
+                0x000001ae       0x34 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .ARM.attributes
+                0x000001e2       0x34 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .ARM.attributes
+                0x00000216       0x34 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .ARM.attributes
+                0x0000024a       0x21 CMakeFiles/STM32F407_Drivers.elf.dir/Startup/startup_stm32f407xx.s.obj
+ .ARM.attributes
+                0x0000026b       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .ARM.attributes
+                0x0000029f       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x000002d3       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x00000307       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x0000033b       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x0000036f       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x000003a3       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x000003d7       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x0000040b       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x0000043f       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000473       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x000004a7       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x000004db       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x0000050f       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000543       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000577       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x000005ab       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x000005df       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000613       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .ARM.attributes
+                0x00000647       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .ARM.attributes
+                0x0000067b       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .ARM.attributes
+                0x000006af       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x000006e3       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .ARM.attributes
+                0x00000717       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000074b       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x0000077f       0x22 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+.comment        0x00000000       0x45
+ .comment       0x00000000       0x45 CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+                                 0x46 (size before relaxing)
+ .comment       0x00000045       0x46 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+
+.debug_line_str
+                0x00000000      0x135
+ .debug_line_str
+                0x00000000      0x135 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+                                 0xcf (size before relaxing)
+ .debug_line_str
+                0x00000135       0x66 CMakeFiles/STM32F407_Drivers.elf.dir/Startup/startup_stm32f407xx.s.obj
+
+.debug_info     0x00000000     0x25ac
+ .debug_info    0x00000000      0x2ce CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .debug_info    0x000002ce      0x414 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .debug_info    0x000006e2      0x1a3 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .debug_info    0x00000885      0x9cc CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_info    0x00001251      0x67a CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_info    0x000018cb      0x530 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_info    0x00001dfb      0x31b CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_info    0x00002116      0x27d CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .debug_info    0x00002393      0x1e9 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .debug_info    0x0000257c       0x30 CMakeFiles/STM32F407_Drivers.elf.dir/Startup/startup_stm32f407xx.s.obj
+
+.debug_abbrev   0x00000000      0xa9c
+ .debug_abbrev  0x00000000      0x124 CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .debug_abbrev  0x00000124      0x107 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .debug_abbrev  0x0000022b       0x94 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .debug_abbrev  0x000002bf      0x226 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_abbrev  0x000004e5      0x130 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_abbrev  0x00000615      0x13e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_abbrev  0x00000753       0xf1 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_abbrev  0x00000844      0x110 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .debug_abbrev  0x00000954      0x124 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .debug_abbrev  0x00000a78       0x24 CMakeFiles/STM32F407_Drivers.elf.dir/Startup/startup_stm32f407xx.s.obj
+
+.debug_aranges  0x00000000      0x140
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .debug_aranges
+                0x00000020       0x20 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .debug_aranges
+                0x00000040       0x18 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .debug_aranges
+                0x00000058       0x20 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_aranges
+                0x00000078       0x20 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_aranges
+                0x00000098       0x20 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_aranges
+                0x000000b8       0x20 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_aranges
+                0x000000d8       0x20 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .debug_aranges
+                0x000000f8       0x20 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .debug_aranges
+                0x00000118       0x28 CMakeFiles/STM32F407_Drivers.elf.dir/Startup/startup_stm32f407xx.s.obj
+
+.debug_macro    0x00000000     0x20fc
+ .debug_macro   0x00000000       0xc4 CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .debug_macro   0x000000c4      0xac6 CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .debug_macro   0x00000b8a       0x22 CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .debug_macro   0x00000bac       0x8e CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .debug_macro   0x00000c3a       0x51 CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .debug_macro   0x00000c8b      0x103 CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .debug_macro   0x00000d8e       0x6a CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .debug_macro   0x00000df8      0x1df CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .debug_macro   0x00000fd7       0x5e CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .debug_macro   0x00001035       0x7c CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .debug_macro   0x000010b1       0x40 CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .debug_macro   0x000010f1      0x172 CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .debug_macro   0x00001263       0xce CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .debug_macro   0x00001331       0x8e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .debug_macro   0x000013bf       0x3a CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .debug_macro   0x000013f9       0x70 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .debug_macro   0x00001469       0x8a CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .debug_macro   0x000014f3       0x46 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .debug_macro   0x00001539       0x52 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .debug_macro   0x0000158b       0xa6 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_macro   0x00001631       0x22 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_macro   0x00001653      0x12a CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_macro   0x0000177d       0xad CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_macro   0x0000182a       0x22 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_macro   0x0000184c      0x1c7 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_macro   0x00001a13      0x154 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_macro   0x00001b67       0x64 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_macro   0x00001bcb       0xb8 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_macro   0x00001c83       0xad CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_macro   0x00001d30       0x1c CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_macro   0x00001d4c       0x8e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_macro   0x00001dda       0x64 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_macro   0x00001e3e      0x140 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_macro   0x00001f7e       0x93 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .debug_macro   0x00002011       0x10 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .debug_macro   0x00002021       0x22 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .debug_macro   0x00002043       0x85 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .debug_macro   0x000020c8       0x34 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+
+.debug_line     0x00000000     0x27f6
+ .debug_line    0x00000000      0x366 CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .debug_line    0x00000366      0x3fb CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .debug_line    0x00000761      0x2d8 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .debug_line    0x00000a39      0x84f CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_line    0x00001288      0x529 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_line    0x000017b1      0x4fd CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_line    0x00001cae      0x3a6 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_line    0x00002054      0x362 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .debug_line    0x000023b6      0x3cb CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .debug_line    0x00002781       0x75 CMakeFiles/STM32F407_Drivers.elf.dir/Startup/startup_stm32f407xx.s.obj
+
+.debug_str      0x00000000     0x7e93
+ .debug_str     0x00000000     0x7e93 CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+                               0x4b8a (size before relaxing)
+ .debug_str     0x00007e93     0x4371 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .debug_str     0x00007e93     0x422e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_config.c.obj
+ .debug_str     0x00007e93     0x4c4d CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_str     0x00007e93     0x5152 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_str     0x00007e93     0x4c70 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_str     0x00007e93     0x4c4a CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_str     0x00007e93     0x421a CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .debug_str     0x00007e93     0x402e CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .debug_str     0x00007e93       0x82 CMakeFiles/STM32F407_Drivers.elf.dir/Startup/startup_stm32f407xx.s.obj
+
+.debug_frame    0x00000000      0xe8c
+ .debug_frame   0x00000000       0x48 CMakeFiles/STM32F407_Drivers.elf.dir/Examples/main.c.obj
+ .debug_frame   0x00000048       0xa4 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/ADC/ADC_program.c.obj
+ .debug_frame   0x000000ec      0x180 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/CAN/Src/CAN_program.c.obj
+ .debug_frame   0x0000026c      0x2e4 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/DMA/Src/DMA_program.c.obj
+ .debug_frame   0x00000550      0x174 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_frame   0x000006c4       0xb8 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/MPU/Src/MPU_program.c.obj
+ .debug_frame   0x0000077c       0x60 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/NVIC/Src/NVIC_program.c.obj
+ .debug_frame   0x000007dc       0xa4 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/SYSTICK/Src/SYSTICK_program.c.obj
+ .debug_frame   0x00000880       0x28 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .debug_frame   0x000008a8       0x2c /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .debug_frame   0x000008d4       0x20 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .debug_frame   0x000008f4      0x144 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .debug_frame   0x00000a38       0x88 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .debug_frame   0x00000ac0       0x2c /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x00000aec       0x2c /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .debug_frame   0x00000b18       0x34 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x00000b4c       0x2c /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .debug_frame   0x00000b78       0xb0 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .debug_frame   0x00000c28       0x5c /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .debug_frame   0x00000c84       0x50 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00000cd4       0x2c /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .debug_frame   0x00000d00       0x38 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .debug_frame   0x00000d38       0x30 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00000d68       0x2c /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000d94       0x38 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .debug_frame   0x00000dcc       0x20 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .debug_frame   0x00000dec       0x20 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .debug_frame   0x00000e0c       0x20 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .debug_frame   0x00000e2c       0x20 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .debug_frame   0x00000e4c       0x20 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .debug_frame   0x00000e6c       0x20 /home/ammar/Downloads/arm-gnu-toolchain-13.3.rel1-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+
+.debug_rnglists
+                0x00000000       0x2f
+ .debug_rnglists
+                0x00000000       0x16 CMakeFiles/STM32F407_Drivers.elf.dir/MCAL/GPIO/Src/GPIO_program.c.obj
+ .debug_rnglists
+                0x00000016       0x19 CMakeFiles/STM32F407_Drivers.elf.dir/Startup/startup_stm32f407xx.s.obj
